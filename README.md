@@ -1,0 +1,1 @@
+# Next-JS-API-Sample-With-JWT-Authentication
