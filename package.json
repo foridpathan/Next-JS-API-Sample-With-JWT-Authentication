@@ -1,0 +1,26 @@
+{
+  "name": "momagicbd-react",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mysql2": "^2.3.3",
+    "next": "12.0.7",
+    "next-connect": "^0.11.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "sequelize": "^6.12.0-beta.3"
+  },
+  "devDependencies": {
+    "eslint": "8.4.1",
+    "eslint-config-next": "12.0.7"
+  }
+}
